@@ -44,7 +44,7 @@ function genText() {
         ["Can I reserve a table?"]: "Posso prenotare un tavolo?",
         ["Do you accept credit cards?"]: "Accetta carte di credito?",
         ["I would like to try this on"]: "Vorrei provare questo",
-        ["It's too expensive"]: "è troppo costoso",
+        ["It's too expensive"]: "è troppo caro",
         ["I'll take it"]: "Lo prendo",
         ["See you soon!"]: "A presto!"
     };
