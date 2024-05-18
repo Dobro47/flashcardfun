@@ -12,7 +12,7 @@ function genText() {
         No: "No",
         Please: "Per favore",
         ["Thank you"]: "Grazie",
-         Aperitivo: "pre-dinner drinks & snacks",
+        Aperitivo: "pre-dinner drinks & snacks",
         Stazione: "train station",
         ["How much does it cost?"]: "Quanto costa",
         ["You're welcome"]: "Prego",
@@ -30,7 +30,23 @@ function genText() {
         Birra: "beer",
         ["Il conto"]: "the check or bill",
         Vino: "wine",
-        ["Via/Strada"]:"street" 
+        ["Via/Strada"]:"street",
+        ["Do you speak English?"]: "Parli inglese?",
+        ["Can you help me, please?"]: "Mi aiuti, per favore?",
+        ["Can you speak slower, please?"]: "Può parlare più lentamente, per favore?",
+        ["where is...?"]: "Dov'è...?",
+        ["Excuse me, how do I get to...?"]: "Scusi, come arrivo a...?",
+        ["Where is the bathroom?"]: "Dov'è il bagno?",
+        ["Two tickets, please"]: "due biglietti, per favore",
+        ["The bill, please"]: "Mi dia il conto, per favore",
+        ["I would like..."]: "Vorrei...",
+        ["Can I have...?"]: "Posso avere",
+        ["Can I reserve a table?"]: "Posso prenotare un tavolo?",
+        ["Do you accept credit cards?"]: "Accetta carte di credito?",
+        ["I would like to try this on"]: "Vorrei provare questo",
+        ["It's too expensive"]: "è troppo costoso",
+        ["I'll take it"]: "Lo prendo",
+        ["See you soon!"]: "A presto!"
     };
    let data = Object.entries(words);
 
